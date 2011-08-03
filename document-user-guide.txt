@@ -18,12 +18,13 @@ txt2tags 使用说明
     - 安装tortoisgit 客户端
     - 访问 www.github.com 注册帐号
     - 使用 puttygen （在git 安装目录下有这个文件） 给自己生成一个私钥和公钥
-    - 把公钥上传到github 上，这样每次同步数据就不需要反复输入密码了
+    - 把公钥上传到github 上，这样每次同步数据就不需要反复输入密码了（使用SSH 模式）
     - 本文档的代码在 fanyun/p01 项目中，可以在github 搜索找到本项目； 只读链接为：git://github.com/fanyun/p01.git
     - 如需获得写权限，可以找fanyun 申请
     
 
 + txt2tags 安装和使用 +
+
 
 ++ 安装 ++
 	
